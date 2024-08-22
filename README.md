@@ -1,4 +1,4 @@
-# Debounce - JS
+# Debounce JS
 - Desenvolvi esse projeto com o bjetivo de aplicar a écnica de debounce, permite que uma ação não seja chamada várias vezes dentro de uma aplicação, colocando em risco sua performance, dessa forma se utiliza-se a técnica de debounce para "rebater" ações indesejadas, utilizei uma Api placeholder para buscar usuários por meio do campo de busca.
 ## Funcionalidade:
 - Buscar usuários na API
